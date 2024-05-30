@@ -12,4 +12,6 @@ Now I aim to learn especially those things during the Foundations course because
 
 So, with that said here is my landing page, with which I pretty much stuck to the requirements and not much else. 
 
-Credits for all the images go to [Unsplash](https://unsplash.com/)
+Photo by [Matthijs Smit](https://unsplash.com/@matthijssm?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/pair-of-brown-wooden-drumsticks-on-top-of-white-and-gray-musical-drum-bRG2C0FAQEY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+
+  
