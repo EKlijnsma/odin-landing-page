@@ -65,7 +65,7 @@ img {
     margin-left: auto;
 }
 
-button {
+body button {
     background-color: #3882F6;
     color: #F9FAF8;
     padding: 8px 24px;
@@ -111,7 +111,7 @@ button {
     border-radius: 12px;
 }
 
-.subtext {
+.card .subtext {
     font-size: 16px;
     color: #4a5462;
     text-align: center;
@@ -151,25 +151,38 @@ button {
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-basis: 360px;
+    padding: 64px 0;
 }
 
 .signup .container {
     background-color: #3882F6;
+    color: #F9FAF8;
     border-radius: 10px;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0 100px;
+    padding: 24px 100px;
+    flex: 0 0 1000px;
+    box-sizing: border-box;
+
 }
-.signup button {
-    border-style: 3px solid #F9FAF8;
+
+.signup .main-text {
+    font-size: 24px;
+}
+
+.signup .subtext {
+    font-size: 18px;
+}
+
+#signup-button {
+    border: 3px solid #F9FAF8;
 }
 
 /* Footer section */
 .footer {
     background-color: #1f2937;    
-    color: #F9FAF8;
+    color:#E5E7EB;
     display: flex;
     align-items: center;
     justify-content: center;
